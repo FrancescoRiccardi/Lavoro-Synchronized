@@ -1,2 +1,2 @@
-# ThreadExamples
-Esempi di problemi risolti utilizzando i thread e i semafori
+# synchronized
+Progetti riconsegnati utilizzando il synchronized
